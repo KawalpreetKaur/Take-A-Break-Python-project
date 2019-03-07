@@ -10,7 +10,8 @@ Modules like 'time' and 'webbrowser' have been imported in this program. The mod
 
 Functions 'ctime()' and 'sleep()' are used in the formats 'time.ctime()' and 'time.sleep(time period)' and the time period is in seconds. Function 'time.sleep()' as the name implies, pauses your Python program and this way it is used to pause the program and then 'webbrowser.open(url)' is used to open web url provided in the function. The function 'time.ctime()' is in the program to display that the program was started on that particular time.
 
+![screenshot 2](https://user-images.githubusercontent.com/40642572/53982359-b9a4ba80-413a-11e9-82c2-69b7b67fe79b.png)
 
-![Uploading Screenshot (2).png…]()
+
 
 
